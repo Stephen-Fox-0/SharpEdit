@@ -1,13 +1,13 @@
 # SharpEdit
 SharpEdit, a small but powerful text editor made completly in modern /and material designing.
 
-#How to build
+# How to build
     
-    ##Things needed
+    ## Things needed
 
     You will need a csharp ide, like the following
 
-    [Visual Studio](https://visualstudio.com)
+    ![Visual Studio](https://visualstudio.com)
     
     Once you have opened SharpEdit, you will need to add the to references in the directory named "References"
     Then all you need to do is rebuild the project
