@@ -17,5 +17,5 @@ SharpEdit, a small but powerful text editor made completly in modern /and materi
 
  #Once built the project should look like this
 
-   !(http://sharptech.tk/apps/new.PNG)
-   !(http://sharptech.tk/apps/new1.PNG)
+   ![Alt text](http://sharptech.tk/apps/new.PNG)
+   ![Alt text](http://sharptech.tk/apps/new1.PNG)
