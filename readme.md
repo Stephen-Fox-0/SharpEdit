@@ -7,7 +7,7 @@ SharpEdit, a small but powerful text editor made completly in modern /and materi
 
     You will need a csharp ide, like the following
 
-    ![Visual Studio](https://visualstudio.com)
+    ![Alt Visual Studio](https://visualstudio.com)
     
     Once you have opened SharpEdit, you will need to add the to references in the directory named "References"
     Then all you need to do is rebuild the project
@@ -17,5 +17,5 @@ SharpEdit, a small but powerful text editor made completly in modern /and materi
 
  # Once built the project should look like this
 
-   (http://sharptech.tk/apps/new.PNG)
-   (http://sharptech.tk/apps/new1.PNG)
+   ![alt text](http://sharptech.tk/apps/new.PNG "")
+   ![alt text](http://sharptech.tk/apps/new1.PNG "")
